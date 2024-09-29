@@ -25,9 +25,9 @@
     <title>Document</title>
 </head>
 <body>
-    <strong><p>El resultado del area del rectangulo es : </p></strong> <?php echo $resultados->areaRect() ?>
-    <strong><p>El resultado del area del triangulo es : </p></strong> <?php echo $resultados->areaTri() ?>
-    <strong><p>El resultado del area del cuadrado es : </p></strong> <?php echo $resultados->areaCua() ?>
+    <strong><p>El resultado del area del rectangulo es: </p></strong> <?php echo $resultados->areaRect() ?>
+    <strong><p>El resultado del area del triangulo es: </p></strong> <?php echo $resultados->areaTri() ?>
+    <strong><p>El resultado del area del cuadrado e: </p></strong> <?php echo $resultados->areaCua() ?>
     
 </body>
 </html>
