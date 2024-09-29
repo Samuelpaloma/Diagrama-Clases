@@ -21,12 +21,12 @@
 </head>
 <body>
 
-<strong><p>El resultado del sueldo:</p></strong> <?php echo $resultados->sueldo()?>
+<strong><p>El resultado del sueldoo:</p></strong> <?php echo $resultados->sueldo()?>
 <strong><p>El resultado de la pension:</p></strong> <?php echo $resultados->pension()?>
-<strong><p>El resultado de la saludd es:</p></strong> <?php echo $resultados->salud()?>
+<strong><p>El resultado de la salud es:</p></strong> <?php echo $resultados->salud()?>
 <strong><p>El resultado de la arl:</p></strong> <?php echo $resultados->arl()?>
 <strong><p>El resultado del descuentoo:</p></strong> <?php echo $resultados->descuento()?>
-<strong><p>El resultado del pago Total:</p></strong> <?php echo $resultados->pagoTotal()?>
+<strong><p>El resultado del pago Totall :</p></strong> <?php echo $resultados->pagoTotal()?>
     
 </body>
 </html>
